@@ -1,6 +1,6 @@
 version: '2'
 services:
-  dockerapp-1:
+  dockerapp:
     extends:
       file: common.yml
       service: dockerapp
